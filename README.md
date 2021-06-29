@@ -16,7 +16,8 @@ the participants will learn:
 ## code file sum/sum.py
 ## test file tests/test_sum/test_sum.py
 
-## Usage:
-Learner must run the tests using the previous command and figure out why some tests passed and other not. also should solve the questions and tasks that exist as comments on the code files.
+## Task:
+why first test failed  but the second passed on test_sum.py file? and how to fix it so tests will pass?
+
 ## very important notice:
 the code should be written in a way to be testable like break it down into functions instead of writing the code in a big bunch of one unit 
